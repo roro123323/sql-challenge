@@ -10,7 +10,7 @@ Inner JOIN salaries ON
 employees.emp_no = salaries.emp_no;
 
 -- Display the first name, last name, and hire date of employees who were recruited during the year 1986.
-SELECT emp_no,employees.last_name, employees.hire_date
+SELECT emp_no,first_name,last_name,.hire_date
 FROM employees
 WHERE hire_date >= '19860101'
 AND   hire_date < '19861231';
