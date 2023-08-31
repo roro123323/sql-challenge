@@ -1,6 +1,6 @@
 # Module 9 challenge
 
 #Background
-you were hired as a new data engineer at Pewlett Hackard (a fictional company). Your first major task is to do a research project about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
+Your role as a newly onboarded data engineer at Pewlett Hackard (a fictitious firm) involves undertaking a research assignment related to individuals who were part of the company's workforce in the 1980s and 1990s. The available records consist of six CSV files from that era.
 
-For this project, you’ll design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. That is, you’ll perform data modeling, data engineering, and data analysis, respectively.
+In this project, your responsibilities include devising table structures to accommodate the data within the CSV files, transferring the data from CSV format into a SQL database, and subsequently addressing inquiries about the amassed information. This entails executing tasks like data modeling, data engineering, and data analysis in a sequential manner.
